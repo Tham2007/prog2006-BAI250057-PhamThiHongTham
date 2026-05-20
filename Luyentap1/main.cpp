@@ -11,9 +11,6 @@ int main()
         { cout<<"Là số lẻ";}
     return 0;}
 //bai2
-#include <iostream>
-using namespace std;
-int main()
     {float w , h;
     cout <<"Nhập w";
     cin >> w;
